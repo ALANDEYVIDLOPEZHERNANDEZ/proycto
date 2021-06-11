@@ -1,0 +1,40 @@
+body{
+	background-color: #4FA422;
+
+}
+
+header{
+	width:1300px;
+	height: 300px;
+	background-color: #6FB848;
+}
+
+#cbtis{
+	width: 240px;
+	height: 150px;
+	float: left;
+}
+
+#sems{
+	width: 300px;
+	height: 150px;
+	float: right;
+}
+
+#listotaz{
+	width: 300px;
+	height: 1900px;
+	background-color: #82C161;
+	float: left;
+}
+
+#div{
+	width: 1350px;
+	height: 1900px;
+	background-color: #B4F491;
+}
+
+#textoo{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}

@@ -1,0 +1,132 @@
+body{
+	background-color: gray;
+}
+
+#demasiadodiv{
+	height: 1650px;
+	width: 1600px;
+	background-color: red;
+}
+
+header{
+	margin: 50px auto;
+	height: 250px;
+	width: 1491px;
+	background-color: red;
+}
+
+#cbtis{
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 95px 13px 0px 13px;
+}
+
+#sems{
+	width: 250px;
+	height: 150px;
+	float: right;
+	margin: 0px 13px 50px 13px;
+}
+
+#i{
+	height: 200px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 180px;
+}
+
+#m{
+	height: 200px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 180px;
+}
+
+#g{
+	height: 200px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 175px;
+}
+
+#proyecto{
+	margin-top: 75px;
+	margin-bottom: 20px;
+	white-space: 20px;
+	height: 10px;
+	text-align: center;
+	font: oblique bold 120% cursive;
+	color: red;
+	font-size: 2em;
+}
+
+#proyectosr{
+	margin-top: 75px;
+	margin-bottom: 20px;
+	white-space: 20px;
+	height: 10px;
+	text-align: center;
+	font: oblique bold 120% cursive;
+	color: red;
+	font-size: 2em;
+}
+
+#proyectot{
+	margin-top: 75px;
+	margin-bottom: 20px;
+	white-space: 20px;
+	height: 10px;
+	text-align: center;
+	font: oblique bold 120% cursive;
+	color: red;
+	font-size: 2em;
+}
+
+
+#listita{
+	height: 1300px;
+	width: 250px;
+	float: left;
+	background-color: #3AA4A9;
+	float: left;
+}
+
+#textoo{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	
+}
+
+#lista{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#texto{
+	width: 1000px;
+	height: 1220px;
+	background-color: #366F71;
+	float: left;
+	
+}
+
+#listitatwo{
+	height: 1300px;
+	width: 350px;
+	background-color: #3AA4A9;
+	float: left;
+	
+}
+
+#direc{
+	margin-top: 60px;
+}
+
+#pie{
+	width: 900px;
+	height: 50px;
+	background-color: #A90505;
+	text-align: center;
+	margin-left: 300px;
+}

@@ -1,0 +1,57 @@
+body{
+	background-color: gray;
+
+}
+
+#demasiadodiv{
+	width: 1600px;
+	height: 1800px;
+}
+
+#h{
+	background-color: red;
+	width: 1500px;
+	height: 300px;
+
+}
+
+#cbtis{
+	height: 150px;
+	width: 213px;
+	float: left;
+}
+
+#sems{
+	height: 150px;
+	width: 213px;
+	float: right;
+}
+
+#listotas{
+	width: 300px;
+	height: 1000px;
+	background-color: #B561C1;
+	float: left;
+}
+
+#textoo{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#textd{
+	width: 1500px;
+	height: 1000px;
+	background-color: #8E61C1;
+}
+
+#p{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+#a{
+	text-align: center;
+	margin: auto;
+	color: #61C197;
+}

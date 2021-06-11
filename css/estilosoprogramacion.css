@@ -1,0 +1,159 @@
+body{
+	background-color: #A29992;
+}
+
+#muchodiv{
+	height: 1500px;
+	width: 1491px;
+	background-color: red;
+
+}
+
+header{
+	margin: 50px auto;
+	height: 250px;
+	width: 1491px;
+	background-color: red;
+
+	
+}
+
+#ofimatica{
+	margin-top: 75px;
+	white-space: 20px;
+	height: 10px;
+	text-align: center;
+	font: oblique bold 120% cursive;
+	color: red;
+	font-size: 2em;
+}
+
+#textoo{
+	color: red;
+	margin-top: 100px;
+	margin-bottom: 200px; 
+	font-size: 1em;
+	text-align: left;
+	color: black;
+
+}
+
+#portalt{
+	font-size: 2em;
+	text-align: center;
+	margin-top: 50px auto;
+	margin: left;
+}
+
+#m{
+	margin-top: 50px;
+}
+
+#textito{
+	color: black;
+	margin: 100px 550px 0px 5px;
+	font-size: 1em;
+	text-align: center;
+	color: red;
+	}
+
+#weyes{
+	width: 500px;
+	height: 350px;
+	float: right;
+	margin-bottom: 400px;
+}
+
+#cbtis{
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 95px 13px 0px 13px;
+}
+
+#sems{
+	width: 250px;
+	height: 150px;
+	float: right;
+	margin: 0px 13px 50px 13px;
+}
+
+#listita{
+	height: 1200px;
+	width: 260px;
+	background-color: #3FB9BD;
+	float: left;
+}
+
+#lista{
+	margin-top: 100px;
+	margin-bottom: 50px;
+
+}
+
+#menu{
+	background-color: #000;
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	display: inline-block;
+}
+
+#menu ul li a{
+	color: white;
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+	background-color: #42B881;
+}
+
+#muchotexto{
+	width: 1380px;
+	height: 700px;
+	background-color: #5CB1B4;
+
+
+}
+
+#pocotexto{
+	height: 450px;
+	width: 1380px;
+	background-color: #009297;
+}
+
+#mmmm{
+	color: black;
+	margin: 0px 20px 0px 20px;
+	font-size: 1em;
+	text-align: center;
+	color: red;
+	padding: 50px 50px 50px 50px;
+
+}
+
+#icon{
+	height: 90px;
+	width: 150px;
+}
+
+#pie p{
+	width: 1120px;
+	height: 50px;
+	background-color: #9EE6E8;
+	float: left;
+	margin-top: 1px;
+}
+
+
+
+
+
